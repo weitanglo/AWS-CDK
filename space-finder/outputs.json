@@ -1,0 +1,18 @@
+{
+  "Datastack": {
+    "ExportsOutputRefSpacesTable8A9973559FB4B87D": "SpaceTable-0e246cbcc5b9",
+    "ExportsOutputFnGetAttSpacesTable8A997355Arn242927FE": "arn:aws:dynamodb:ap-northeast-1:596083561347:table/SpaceTable-0e246cbcc5b9"
+  },
+  "AuthStack": {
+    "ExportsOutputFnGetAttSpaceUserPool6AB542DCArnC2E21F85": "arn:aws:cognito-idp:ap-northeast-1:596083561347:userpool/ap-northeast-1_uwz1sHhC5",
+    "SpaceUserPoolId": "ap-northeast-1_uwz1sHhC5",
+    "SpaceUserPoolClientId": "3rnqr44qobl52lpilsfgtd76b4",
+    "SpaceIdentityPoolRef": "ap-northeast-1:9dadfda7-6920-4bac-a8a3-06a1fd577ba4"
+  },
+  "LambdaStack": {
+    "ExportsOutputFnGetAttSpacesLambdaA5F923A4ArnE59FF2BB": "arn:aws:lambda:ap-northeast-1:596083561347:function:LambdaStack-SpacesLambdaA5F923A4-xRlniX4zCqMy"
+  },
+  "ApiStack": {
+    "SpacesApiEndpoint36C4F3B6": "https://lt1rytnfx4.execute-api.ap-northeast-1.amazonaws.com/prod/"
+  }
+}
